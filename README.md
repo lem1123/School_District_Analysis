@@ -1,4 +1,4 @@
-# School_District_Analysis -  School_District_Analysis - Challenge Number 4
+# School_District_Analysis - Challenge Number 4
 
 ## Overview of the School District Analysis
     The overview of the School District Analysis was to assist a City School District with reviewing standardized testing data and interpret performance trends by using Pandas.  By using code within Pandas, we can easily showcase specific test score trends whether it be within a school or district in a summary format that is presentable to board members.  The summaries contained within the data help assess the needs of specific schools and can even show a direct correlation between the amount of school funding and the size of the school to a particular school’s test scores.  
